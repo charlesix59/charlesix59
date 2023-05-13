@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @charlesix59
-- 👀 I’m interested in C++/C/RUST/JAVA SCRIPT/JAVA/PHP
-- 🌱 I’m currently learning rust/qt
-- 💞️ I’m looking to collaborate on c++ learning
-- 📫 How to reach me —— CharlesMin2001@outlook.com
+<h1 align="center">Hi 👋, I'm charlesix59</h1>
+<h3 align="center">The best poet among Developers</h3>
 
-<!---
-charlesix59/charlesix59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on **Tencent**
+
+- 🌱 I’m currently learning **React**
+
+- 🤝 I’m looking for help with **Respawn-interview**
+
+- 📝 I regularly write articles on [https://charlesix59.github.io/blog_tech/](https://charlesix59.github.io/blog_tech/)
+
+- 💬 Ask me about **React and js**
+
+- 📫 How to reach me **CharlesMin2001@outlook.com**
+
+- 📄 Know about my experiences [https://preview.nowcoder.com/?ssl=1&furl=https://uploadfiles.nowcoder.com/resumes/20230310/680358800_1678428043146/%E9%97%B5%E7%A5%A5%E8%B6%85_%E5%8C%97%E4%BA%AC.pdf](https://preview.nowcoder.com/?ssl=1&furl=https://uploadfiles.nowcoder.com/resumes/20230310/680358800_1678428043146/%E9%97%B5%E7%A5%A5%E8%B6%85_%E5%8C%97%E4%BA%AC.pdf)

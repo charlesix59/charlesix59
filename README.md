@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm charlesix59</h1>
 <h3 align="center">The best poet among Developers</h3>
 
-- 🔭 I’m currently working on **Tencent**
+- 🔭 I’m currently working on **Meituan**
 
 - 🌱 I’m currently learning **React**
 
